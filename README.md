@@ -26,7 +26,6 @@ Das war's schon. Kein Programmieren nötig, du musst nur Text kopieren und einf�
 - Alles wird **automatisch im Hintergrund gespeichert**, während du tippst. Du kannst die App also jederzeit einfach schließen – deine Eingaben gehen nicht verloren, beim nächsten Öffnen sind sie noch da.
 - Bist du fertig, tippst du auf **„💾 Speichern & Abschließen"**, gibst dem Ranking einen Namen (z. B. den Videotitel) und es wandert ins Archiv. Danach ist Platz für ein neues Ranking.
 - Über den Startbildschirm siehst du deine letzten 5 gespeicherten Rankings. Über **„🗂 Alle anzeigen"** kommst du ins komplette Archiv mit einer einfachen Suchfunktion (findet auch Begriffe innerhalb der Rankings, Groß-/Kleinschreibung ist egal).
-- Optional kannst du dir auch ein **Homescreen-Widget** einrichten, das dein aktuelles Ranking direkt anzeigt (klein, mittel oder groß – langes Antippen auf dem Homescreen → Widget hinzufügen → Scriptable → dieses Skript auswählen).
 
 ## Wo werden die Daten gespeichert?
 
